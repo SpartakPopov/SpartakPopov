@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**SpartakPopov/SpartakPopov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Fontys ICT student in the Netherlands.
 
-Here are some ideas to get you started:
+I design and implement any idea that makes me curious.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If I start wondering how something works, chances are that I will probably research and build it myself.
+
+--------------------------------------------------------------------------------------------------
+Cloud experience working with:
+- AWS
+- Azure
+- GCP (Google Cloud)
+- 
+Cybersecurity experience:
+- worked on pentesting for a client
+- created malware simulations, through OpenBAS for another client.
+  
+Networking experience:
+- A looooot of on-premise networks and a personal homelab
+  
+--------------------------------------------------------------------------------------------------
+A bit about me
+- A dog person
+- I dirnk my coffee black
+- Big nerd
