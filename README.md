@@ -11,7 +11,7 @@ Cloud experience working with:
 - AWS
 - Azure
 - GCP (Google Cloud)
-- 
+  
 Cybersecurity experience:
 - worked on pentesting for a client
 - created malware simulations, through OpenBAS for another client.
